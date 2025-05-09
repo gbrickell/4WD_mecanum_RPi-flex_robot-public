@@ -12,5 +12,5 @@ An earlier design for the custom PCB is currently used in this build, with image
 
 <img src="images\RPi-flex_PCB04_front03_800w.jpg" width="193" height="250"> &nbsp; &nbsp; <img src="images\RPi-flex_PCB04_back03_800w.jpg" width="193" height="250">  &nbsp; &nbsp; <img src="images\RPi-flex_PCB04_back04_800w.jpg" width="193" height="250">
 
-The latest code for managing the robot will be made available, along with some usage notes, in due course.
+The latest code for testing individual robot components and managing the robot's operational modes will be made available, along with some usage notes, in due course.
 
